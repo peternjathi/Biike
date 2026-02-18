@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="textDescription" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 595.28 841.89">
+  <defs>
+    <style>
+      .cls-1 {
+        letter-spacing: -.07em;
+      }
+
+      .cls-2 {
+        letter-spacing: .04em;
+      }
+
+      .cls-3 {
+        letter-spacing: -.06em;
+      }
+
+      .cls-4 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-5 {
+        fill: #231f20;
+        font-family: TimesNewRomanPSMT, 'Times New Roman';
+        font-size: 26.94px;
+      }
+    </style>
+  </defs>
+  <text class="cls-5" transform="translate(172.57 134.34) scale(.74 1)"><tspan x="0" y="0">textDescription</tspan></text>
+  <text class="cls-5" transform="translate(29.22 183.76) scale(.5 1)"><tspan x="0" y="0">I have choosen to trace a mountain bike , to stimulate realistic motion . I will animate the following three</tspan><tspan x="0" y="32.33" xml:space="preserve"> elements</tspan></text>
+  <text></text>
+  <text class="cls-5" transform="translate(1.96 252.42) scale(.5 1)"><tspan x="0" y="0">1 wheels (front and backWheel). Both layers will be set to rotate 360 degrees around their center axes.</tspan><tspan class="cls-4" x="0" y="32.33"> </tspan><tspan class="cls-1" x="6.25" y="32.33">T</tspan><tspan x="20.82" y="32.33">o maintain </tspan><tspan x="0" y="64.66">realism the rotation speed will be synced so the backWheel driven by chains and front wheel move in unison</tspan><tspan x="0" y="129.32">2</tspan><tspan class="cls-4" x="13.47" y="129.32"> </tspan><tspan x="19.72" y="129.32">The pedalAssembly - this layer will rotate around the center of the bottom bracket, I will use a nested</tspan><tspan x="0" y="161.65" xml:space="preserve"> transformation</tspan><tspan x="0" y="193.98">so that as the cranks rotates the pedals remain to the ground, mimiking ride</tspan><tspan class="cls-2" x="809.55" y="193.98">r</tspan><tspan class="cls-3" x="819.53" y="193.98">’</tspan><tspan x="827.01" y="193.98">s foot placement.</tspan><tspan x="0" y="258.65">3</tspan><tspan class="cls-4" x="13.47" y="258.65"> </tspan><tspan x="19.72" y="258.65" xml:space="preserve">The bikeChain- I will use a repeating pattern move to show the chain cycling between  </tspan><tspan x="0" y="290.98">the front chainring and the </tspan><tspan x="0" y="323.31">rear cog in sync with the pedaling motion</tspan></text>
+</svg>
